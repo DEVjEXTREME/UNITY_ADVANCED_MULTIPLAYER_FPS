@@ -59,13 +59,6 @@ Projetado para oferecer **a melhor jogabilidade FPS** com uma estrutura pronta p
 
 ---
 
-📜 Licença
-
-Todo o conteúdo deste repositório está sob MIT License, permitindo uso, modificação e distribuição livre.  
-Veja LICENSE para mais detalhes.
-
----
-
 ## 🌐 Contato & Redes Sociais
 
 * 📧 **E-mail:** [viniciusdevsuporte@gmail.com](mailto:viniciusdevsuporte@gmail.com)
